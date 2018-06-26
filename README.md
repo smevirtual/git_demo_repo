@@ -4,9 +4,11 @@ This repository is for all SME Virtual Network workshop participants who are lea
 
 Try to add a Markdown file (.md file) with your name as the file name and a short description about yourself within the file. Use a different branch from master to add your changes and submit a GitHub pull request. This is a very common workflow pattern when using Git to contribute to your own project or any other open-source project.
 
-### Code of Conduct
+### Community Participation Guidelines
 
-The SME Virtual Network is committed to providing a friendly, safe and welcoming environment for all. Please take a moment to read our [CODE OF CONDUCT](https://github.com/smevirtual/code_of_conduct/blob/master/CODE_OF_CONDUCT.md)).
+The SME Virtual Network is committed to providing a friendly, safe and welcoming
+environment for all. Please take a moment to read our
+<a href="https://github.com/smevirtual/community-guidelines/blob/master/README.md">Community Participation Guidelines</a>.
 
 ### Licenses
 
